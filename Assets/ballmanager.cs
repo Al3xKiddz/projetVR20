@@ -10,7 +10,6 @@ public class ballmanager : MonoBehaviour
     [SerializeField]
     private Rigidbody rbBalle;
 
-    private float maxvel = 200f;
     // Start is called before the first frame update
     void Awake()
     {
